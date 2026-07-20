@@ -23,6 +23,7 @@ You are assisting with a modern frontend project.
 
 ## Git
 
+
 Use Conventional Commits.
 
 Examples:
