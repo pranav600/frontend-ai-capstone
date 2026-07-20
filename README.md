@@ -12,12 +12,14 @@ This repository contains my capstone project for the Frontend AI Engineering tra
 - Git
 - Claude Code
 
-## Goals
+## Features
 
-- Build production-ready frontend applications
-- Learn AI-assisted software development
-- Follow Conventional Commits
-- Practice clean architecture and reusable components
+- AI-assisted frontend development
+- Conventional Commit workflow
+- Clean project architecture
+- Production-ready code
+- Type-safe development using TypeScript
+
 
 ## Project Status
 
